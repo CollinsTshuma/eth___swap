@@ -1,4 +1,14 @@
 # eth___swap
+
+This is an instant cryptocurrency exchange called "EthSwap" that lets you buy and sell cyrptocurrencies at a fixed price.
+
+I created a fictional cryptocurrency called "Dapp Token", which can be purchased with Ether, the native cryptocurrency of the Ethereum blockchain.
+
+I created a client side website that with React.js that talks directly to two Ethereum smart contracts on the blockchain:
+
+The first smart contract "EthSwap"  facilitates buying and selling cryptocurrencies.
+The second smart contract power the fictional "DApp Token".
+
 ## Technology Stack & Tools
 - Solidity (Writing Smart Contract)
 - Javascript (React & Testing)
